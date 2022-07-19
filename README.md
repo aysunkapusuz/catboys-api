@@ -6,5 +6,5 @@ https://user-images.githubusercontent.com/101064345/179795133-f4d2fec6-4570-45fb
 
 ## The Concept:
 - used HTML5, CSS and JS 
-- learnt how to use `fetch()` method and asynchronously request for a resource
+- learnt how to use `fetch()` method and request for a resource
 
